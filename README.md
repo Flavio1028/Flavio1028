@@ -24,12 +24,15 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=Flavio1028&show_icons=true&theme=merko&include_all_commits=true&count_private=true"" alt="flavio1028's stats"/>
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio1028&layout=compact&langs_count=7&theme=merko" alt="flavio1028's most languages"/>
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Flavio1028&show_icons=true&theme=merko&include_all_commits=true&count_private=true"" alt="flavio1028's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio1028&layout=compact&langs_count=7&theme=merko" alt="flavio1028's most languages"/>
+</p>
 
 ## Contact
-
 <p align="left">
     <a href = "mailto:flavio-10_28@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rocha-flavio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rocha-flavio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>    
 </p>
+
+ ![Snake animation](https://github.com/Flavio1028/Flavio1028/blob/output/github-contribution-grid-snake.svg)
