@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Flávio Rocha</h1>
+<h1 align="left">Olá,  Eu sou Flávio Rocha</h1>
 
 ## 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
@@ -26,8 +26,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Flavio1028&show_icons=true&theme=merko&include_all_commits=true&count_private=true"" alt="flavio1028's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio1028&layout=compact&langs_count=7&theme=merko" alt="flavio1028's most languages"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=Flavio1028&show_icons=true&theme=merko&include_all_commits=true&count_private=true"" alt="flavio1028's stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio1028&layout=compact&langs_count=7&theme=merko" alt="flavio1028's most languages"/>
 </p>
 
 ## Contact
